@@ -111,5 +111,21 @@
 	 "year": "2018_WS",
 	 "info": "Zombie Shooter",
 	 "status": -1
+	 },
+	 {
+	 "title": "exohunt",
+	 "folder": "exohunt",
+	 "author": "Michael Mayrhofer",
+	 "year": "2018_WS",
+	 "info": "Game that experiments with Unity2D lightning",
+	 "status": 0
+	 },
+	 {
+	 "title": "streetfight miami",
+	 "folder": "streetfight-miami",
+	 "author": "Xaver Kaindl",
+	 "year": "2018_WS",
+	 "info": "Unfinished sidescroller",
+	 "status": 0
 	 }
 ]
